@@ -1,0 +1,4 @@
+{
+    "valid_list": [1, 2, 3],
+    "invalid_list": [1, "two", false]
+}

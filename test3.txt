@@ -1,0 +1,6 @@
+{
+    "valid_number_1": -12.001,
+    "valid_number_2": 1.23e+10,
+    "invalid_number_1": 0123,
+    "invalid_number_2": +2
+}

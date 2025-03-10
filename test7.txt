@@ -1,0 +1,5 @@
+{
+    "key": "true",
+    "another_key": "false",
+    "key3":"null"
+}

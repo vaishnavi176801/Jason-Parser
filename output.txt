@@ -1,0 +1,24 @@
+JSON parsed successfully!
+Abstract Syntax Tree:
+value
+	object
+		{
+		key
+			STRING: valid_list
+		value
+			list
+				[
+				NUMBER: 1
+				NUMBER: 2
+				NUMBER: 3
+				]
+		key
+			STRING: invalid_list
+		value
+			list
+				[
+				NUMBER: 1
+				STRING: two
+				BOOLEAN: false
+				]
+		}

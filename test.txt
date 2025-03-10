@@ -1,0 +1,5 @@
+{
+    "valid_number": 3.14,
+    "invalid_number_1": 3.,
+    "invalid_number_2": .14
+}

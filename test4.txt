@@ -1,0 +1,5 @@
+{
+    "true": "value1",
+    "false": "value2"
+    "null":34
+}
